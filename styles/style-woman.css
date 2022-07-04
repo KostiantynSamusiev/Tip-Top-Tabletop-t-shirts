@@ -595,7 +595,6 @@ body {
     display: inline-block;
     background-color: #4e67ed;
     align-self: center;
-    padding: 0 10px;
     transform: translate(0, -50%);
     line-height: 45px;
     min-width: 270px;
