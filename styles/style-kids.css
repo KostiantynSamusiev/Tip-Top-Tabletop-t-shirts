@@ -609,6 +609,7 @@ body {
 
 
 .promotion_container>a {
+    text-align: center;
     display: block;
     font-size: 14px;
     font-family: 'Roboto-Light';
