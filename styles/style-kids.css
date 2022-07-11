@@ -4,7 +4,7 @@ body {
 }
 
 .tshirt_info {
-    background: url(../image/tshirt-desktop-background-kids.png) 80% / cover no-repeat;
+    background: url(../image/tshirt-desktop-background-kids.jpeg) 50% 50% / 250% no-repeat;
     min-height: 700px;
     display: flex;
     flex-direction: column;
@@ -811,6 +811,7 @@ body {
     }
 
     .tshirt_info {
+        background: url(../image/tshirt-desktop-background-kids.jpeg) 50% 20% / 200% no-repeat;
         height: 1023px;
     }
 
@@ -1028,6 +1029,7 @@ body {
     }
 
     .tshirt_info {
+        background: url(../image/tshirt-desktop-background-kids.jpeg) 50% 37% / 100% no-repeat;
         height: 806px;
     }
 

@@ -4,7 +4,7 @@ body {
 }
 
 .tshirt_info {
-    background: url(../image/tshirt-desktop-background.png) 50% / cover no-repeat;
+    background: url(../image/tshirt-desktop-background.jpeg) 49% 0% / 300% no-repeat;
     min-height: 700px;
     display: flex;
     flex-direction: column;
@@ -793,6 +793,7 @@ body {
     }
 
 
+
     .benefits_cards {
         padding: 0 25px;
         margin-bottom: 70px;
@@ -811,6 +812,7 @@ body {
     }
 
     .tshirt_info {
+        background: url(../image/tshirt-desktop-background.jpeg) 50% 20% / 230% no-repeat;
         height: 1023px;
     }
 
@@ -1009,6 +1011,10 @@ body {
 
 /* size for desktop */
 @media (min-width: 1080px) {
+
+    .tshirt_info {
+        background: url(../image/tshirt-desktop-background.jpeg) 50% 20% / 100% no-repeat;
+    }
 
     .zsu_supprot {
         margin-left: 60%;

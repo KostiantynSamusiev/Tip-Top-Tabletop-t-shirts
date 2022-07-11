@@ -4,7 +4,7 @@ body {
 }
 
 .tshirt_info {
-    background: url(../image/tshirt-desktop-background-woman.png) 50% / cover no-repeat;
+    background: url(../image/tshirt-desktop-background-woman.jpeg) 50% 0% / 230% no-repeat;
     min-height: 700px;
     display: flex;
     flex-direction: column;
@@ -811,6 +811,7 @@ body {
     }
 
     .tshirt_info {
+        background: url(../image/tshirt-desktop-background-woman.jpeg) 50% 10% / 180% no-repeat;
         height: 1023px;
     }
 
@@ -1028,6 +1029,7 @@ body {
     }
 
     .tshirt_info {
+        background: url(../image/tshirt-desktop-background-woman.jpeg) 50% 25% / 100% no-repeat;
         height: 806px;
     }
 
