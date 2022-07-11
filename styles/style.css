@@ -126,7 +126,7 @@ body {
     text-align: center;
     background: #4e67ed;
     vertical-align: middle;
-    padding-bottom: 55px;
+    padding-bottom: 20px;
     margin-bottom: 40px;
 }
 
@@ -153,7 +153,7 @@ body {
 }
 
 .gender_choose {
-    padding-top: 40px;
+    padding-top: 20px;
 }
 
 .gender_choose a:hover {
